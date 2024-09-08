@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasirtech&label=Profile%20views&color=0e75b6&style=flat" alt="yasirtech" /> </p>
 
 - Currently self studying for Comp TIA A+ via Jason Dion's Udemy courses (projected to acquire by Dec 2024)
-- Build and repair gaming PCs in my free time as a hobby and a way to earn small income on the side
+- Build and repair gaming PCs in my free time as a hobby and also a way to earn small income on the side
   
 
 
