@@ -7,7 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasirtech&label=Profile%20views&color=0e75b6&style=flat" alt="yasirtech" /> </p>
 <b> Current Projects </b>
 
-- Currently self studying for Comp TIA A+ via Jason Dion's Udemy courses (projected to acquire by Dec 2024) 
+- Currently taking the Google IT Support Professional Certificate course on Coursera in my free time
+- Self studying for Comp TIA A+ via Jason Dion's Udemy courses in my free time
 - [Build and repair gaming PCs in my free time as a hobby and also a way to earn small income on the side](https://github.com/YasirTech/computer-hardware)
   
 <h3 align="left">Languages and Tools:</h3>
