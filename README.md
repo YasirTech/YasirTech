@@ -8,7 +8,7 @@
 <b> Current Projects </b>
 
 - Currently enrolled on the Generation Cloud Support Engineer Programme, Acquiring skills related to building, extending and maintaining infrastructure and services running Amazon Web Services
-- Currently expanding my knowledge of Python and Terraform by working on personal projects (will be added here soon)
+- Currently expanding my knowledge of Python and Terraform in my free time
 - I specialize in building and repairing PCs for local customers and clients in my free time, combining my passion for technology and problem solving into a highly rewarding and fulfilling craft
 - [I created a step-by-step guide on building a PC from scratch, featuring images from my most recent orders.](https://github.com/YasirTech/computer-hardware)
   
