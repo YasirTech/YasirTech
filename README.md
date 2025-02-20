@@ -1,4 +1,4 @@
-![logo](https://github.com/YasirTech/YasirTech/blob/main/Yasir%20Banner.png)
+![logo](https://github.com/YasirTech/YasirTech/blob/main/YK%20banner.png)
 <h1 align="center">Hi, I'm Yasir Kadeer 👋 👨🏽‍💻 </h1>
 <h3 align="center">A passionate IT enthusiast focused on improving and learning every day :)</h3>
 
